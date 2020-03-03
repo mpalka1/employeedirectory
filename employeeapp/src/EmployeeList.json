@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"name": "Adam Smith",
+		"salary": 10000,
+		"title": "Economist",
+		"age": 51
+	},
+	{
+		"id": 2,
+		"name": "Lady 2",
+		"salary": 2300000,
+		"title": "Engineer",
+		"age": 39
+	},
+	{
+		"id": 3,
+		"name": "Edgar Allen Poe",
+		"salary": 129088,
+		"title": "Writer",
+        "age": 98
+	},
+	{
+		"id": 4,
+		"name": "Beyonce West ",
+		"salary": 80000,
+		"title": "Singer",
+        "age": 18
+    },
+	{
+		"id": 5,
+		"name": "Justin Bieber",
+		"salary": 60000,
+		"title": "Degenerate",
+        "age": 18
+	},
+	{
+		"id": 6,
+		"name": "Nicole MSist",
+		"salary": 8000,
+		"title": "Coder",
+		"age": 80      
+    },
+	{
+		"id": 7,
+		"name": "Mike Tyson",
+		"salary": 95000,
+		"title": "Retired",
+		"age": 59.5
+	}
+]
